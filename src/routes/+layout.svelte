@@ -1,11 +1,12 @@
 <script lang="ts">
 	import './layout.css';
+	import { base } from '$app/paths';
 
 	let { children } = $props();
 </script>
 
 <svelte:head>
-	<link rel="icon" href="/logo.svg" />
+	<link rel="icon" href={base + '/logo.svg'} />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
 	<link

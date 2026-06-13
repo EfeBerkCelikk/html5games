@@ -1,5 +1,41 @@
 [
 	{
+		"id": "issac",
+		"name": "The Binding of Isaac",
+		"cover": "/covers/issac.avif",
+		"path": "/games/issac/index.html"
+	},
+	{
+		"id": "ragdoll-hit",
+		"name": "Ragdoll Hit",
+		"cover": "/covers/ragdoll-hit.avif",
+		"path": "/games/ragdoll-hit/index.html"
+	},
+	{
+		"id": "level-devil",
+		"name": "Level Devil",
+		"cover": "/covers/level-devil.avif",
+		"path": "/games/level-devil/index.html"
+	},
+	{
+		"id": "territorialio",
+		"name": "Territorial.io",
+		"cover": "/covers/territorialio.webp",
+		"path": "/games/territorialio/build/index.html"
+	},
+	{
+		"id": "tiny-fishing",
+		"name": "Tiny Fishing",
+		"cover": "/covers/tiny-fishing.avif",
+		"path": "/games/tiny-fishing/index.html"
+	},
+	{
+		"id": "there-is-no-game",
+		"name": "There Is No Game",
+		"cover": "/covers/there-is-no-game.png",
+		"path": "/games/there-is-no-game/index.html"
+	},
+	{
 		"id": "flappybird",
 		"name": "Flappy Bird",
 		"cover": "/covers/flappybird.png",
@@ -18,9 +54,15 @@
 		"path": "/games/gunspin/index.html"
 	},
 	{
-		"id": "crossyroad",
-		"name": "Crossy Road",
-		"cover": "/covers/crossyroad.jpeg",
-		"path": "/games/crossyroad/index.html"
+		"id": "geometrydash",
+		"name": "Geometry Dash",
+		"cover": "/covers/geodash.jpg",
+		"path": "/games/geometrydash/index.html"
+	},
+	{
+		"id": "fnae",
+		"name": "Five Nights at Epstein's",
+		"cover": "/covers/fnae.avif",
+		"path": "/games/fnae/index.html"
 	}
 ]
