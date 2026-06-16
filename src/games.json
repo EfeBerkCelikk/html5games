@@ -54,15 +54,69 @@
 		"path": "/games/gunspin/index.html"
 	},
 	{
-		"id": "geometrydash",
-		"name": "Geometry Dash",
-		"cover": "/covers/geodash.jpg",
-		"path": "/games/geometrydash/index.html"
-	},
-	{
 		"id": "fnae",
 		"name": "Five Nights at Epstein's",
 		"cover": "/covers/fnae.avif",
 		"path": "/games/fnae/index.html"
+	},
+	{
+		"id": "run3",
+		"name": "Run 3",
+		"cover": "/covers/run3.avif",
+		"path": "/games/run3/index.html"
+	},
+	{
+		"id": "slope",
+		"name": "Slope",
+		"cover": "/covers/slope.avif",
+		"path": "/games/slope/game.html"
+	},
+	{
+		"id": "doodle-jump",
+		"name": "Doodle Jump",
+		"cover": "/covers/doodle-jump.avif",
+		"path": "/games/doodle-jump/index.html"
+	},
+	{
+		"id": "jetpack",
+		"name": "Jetpack Joyride",
+		"cover": "/covers/jetpack.avif",
+		"path": "/games/jetpack/index.html"
+	},
+	{
+		"id": "drive-mad",
+		"name": "Drive Mad",
+		"cover": "/covers/drive-mad.avif",
+		"path": "/games/drive-mad/index.html"
+	},
+	{
+		"id": "retro-bowl",
+		"name": "Retro Bowl",
+		"cover": "/covers/retro-bowl.png",
+		"path": "/games/retro-bowl/index.html"
+	},
+	{
+		"id": "little-alchemy",
+		"name": "Little Alchemy 2",
+		"cover": "/covers/little-alchemy.avif",
+		"path": "/games/little-alchemy/index.html"
+	},
+	{
+		"id": "granny",
+		"name": "Granny",
+		"cover": "/covers/granny.avif",
+		"path": "/games/granny/index.html"
+	},
+	{
+		"id": "paper-minecraft",
+		"name": "Paper Minecraft",
+		"cover": "/covers/paper-minecraft.png",
+		"path": "/games/paper-minecraft/index.html"
+	},
+	{
+		"id": "cookie-clicker",
+		"name": "Cookie Clicker",
+		"cover": "/covers/cookie-clicker.avif",
+		"path": "/games/cookie-clicker/index.html"
 	}
 ]
